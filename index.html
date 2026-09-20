@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>দুইজনের শহর</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- ================= LOGIN ================= -->
+
+  <div id="loginScreen" class="login-screen">
+
+    <div class="login-box">
+
+      <div class="login-icon">🌆</div>
+
+      <h1>দুইজনের শহর</h1>
+
+      <p>
+        দুজন মিলে একটা মজার শহর ঘুরে দেখো ✨
+      </p>
+
+      <input
+        id="player1"
+        type="text"
+        placeholder="প্রথমজনের নাম"
+      />
+
+      <input
+        id="player2"
+        type="text"
+        placeholder="দ্বিতীয়জনের নাম"
+      />
+
+      <button id="startBtn" class="main-btn">
+        🚀 অভিযান শুরু করি
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <!-- ================= NAVBAR ================= -->
+
+  <header class="navbar">
+
+    <div>
+
+      <h1>
+        🌃 দুইজনের শহর
+      </h1>
+
+      <p id="statusText">
+        অভিযান শুরু হয়নি
+      </p>
+
+    </div>
+
+
+    <div class="nav-buttons">
+
+      <button id="themeBtn">
+        🌙
+      </button>
+
+      <button id="randomBtn">
+        🎲
+      </button>
+
+      <button id="resetBtn">
+        ↻
+      </button>
+
+    </div>
+
+  </header>
+
+
+  <main class="container">
+
+
+    <!-- ================= HERO ================= -->
+
+    <section class="hero">
+
+      <div class="hero-overlay">
+
+        <span class="badge">
+          ✨ আজকের অভিযান
+        </span>
+
+        <h2 id="heroTitle">
+          শহরে তোমাদের প্রথম দিন
+        </h2>
+
+        <p id="heroText">
+          শহরের যেকোনো জায়গায় যাও,
+          মজার কাজ করো, ছবি তোলো
+          এবং নতুন ইভেন্ট আনলক করো।
+        </p>
+
+      </div>
+
+    </section>
+
+
+    <!-- ================= CITY ================= -->
+
+    <section class="city-grid">
+
+
+      <div class="glass city-section">
+
+        <div class="section-header">
+
+          <div>
+
+            <small>
+              বর্তমান জায়গা
+            </small>
+
+            <h2 id="locationName">
+              🌆 কেন্দ্রীয় চত্বর
+            </h2>
+
+          </div>
+
+
+          <div class="stats">
+
+            <span id="clock">
+              🕘 --:--
+            </span>
+
+            <span>
+              ☁️ আরামদায়ক
+            </span>
+
+          </div>
+
+        </div>
+
+
+        <div id="scene" class="scene"></div>
+
+      </div>
+
+
+      <!-- ================= STATUS ================= -->
+
+      <aside class="glass status-card">
+
+        <h2>
+          👥 তোমাদের অবস্থা
+        </h2>
+
+
+        <div class="status-box">
+
+          <span id="nameA">
+            প্রথমজন
+          </span>
+
+          <b id="energyA">
+            100%
+          </b>
+
+        </div>
+
+
+        <div class="status-box">
+
+          <span id="nameB">
+            দ্বিতীয়জন
+          </span>
+
+          <b id="energyB">
+            100%
+          </b>
+
+        </div>
+
+
+        <div class="status-box">
+
+          <span>
+            🧠 মজার স্মৃতি
+          </span>
+
+          <b id="memoryCount">
+            0
+          </b>
+
+        </div>
+
+
+        <div class="status-box">
+
+          <span>
+            📸 ছবি
+          </span>
+
+          <b id="photoCount">
+            0
+          </b>
+
+        </div>
+
+      </aside>
+
+    </section>
+
+
+
+    <!-- ================= PLACES ================= -->
+
+    <section class="glass section">
+
+      <div class="section-header">
+
+        <div>
+
+          <h2>
+            🗺️ শহর ঘুরে দেখি
+          </h2>
+
+          <p>
+            এক চাপেই নতুন জায়গায় চলে যাও
+          </p>
+
+        </div>
+
+
+        <button
+          id="surpriseBtn"
+          class="main-btn"
+        >
+          🎁 আমাকে চমকে দাও
+        </button>
+
+      </div>
+
+
+      <div
+        id="places"
+        class="places-grid"
+      ></div>
+
+    </section>
+
+
+
+    <!-- ================= ACTIONS ================= -->
+
+    <section class="action-grid">
+
+
+      <button
+        class="action-card"
+        data-action="hand"
+      >
+
+        <span>🤝</span>
+
+        <b>
+          হাত মিলাই
+        </b>
+
+        <small>
+          বন্ধুত্বপূর্ণ একটা মুহূর্ত
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="photo"
+      >
+
+        <span>📸</span>
+
+        <b>
+          ছবি তুলি
+        </b>
+
+        <small>
+          অ্যালবামে স্মৃতি রাখো
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="sit"
+      >
+
+        <span>🪑</span>
+
+        <b>
+          একসাথে বসি
+        </b>
+
+        <small>
+          কিছুক্ষণ বিশ্রাম
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="question"
+      >
+
+        <span>❓</span>
+
+        <b>
+          প্রশ্ন করি
+        </b>
+
+        <small>
+          একজন আরেকজনকে প্রশ্ন করবে
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="food"
+      >
+
+        <span>🍜</span>
+
+        <b>
+          খেতে যাই
+        </b>
+
+        <small>
+          নতুন খাবার খুঁজি
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="game"
+      >
+
+        <span>🎮</span>
+
+        <b>
+          মিনি গেম
+        </b>
+
+        <small>
+          ছোট একটা চ্যালেঞ্জ
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="walk"
+      >
+
+        <span>🚶</span>
+
+        <b>
+          হেঁটে বেড়াই
+        </b>
+
+        <small>
+          শহরের রাস্তা ঘুরি
+        </small>
+
+      </button>
+
+
+      <button
+        class="action-card"
+        data-action="gift"
+      >
+
+        <span>🎁</span>
+
+        <b>
+          সারপ্রাইজ
+        </b>
+
+        <small>
+          র‍্যান্ডম ইভেন্ট
+        </small>
+
+      </button>
+
+
+    </section>
+
+
+
+    <!-- ================= EVENT ================= -->
+
+    <section class="glass section">
+
+      <h2>
+        🎭 আজকের ইভেন্ট
+      </h2>
+
+      <div
+        id="eventBox"
+        class="event-box"
+      >
+
+        <span>
+          ✨
+        </span>
+
+        <div>
+
+          <b>
+            কোনো ইভেন্ট চলছে না
+          </b>
+
+          <p>
+            উপরের যেকোনো বোতামে চাপ দাও।
+          </p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+
+
+    <!-- ================= GALLERY ================= -->
+
+    <section class="glass section">
+
+      <h2>
+        🖼️ ছবির অ্যালবাম
+      </h2>
+
+      <div
+        id="gallery"
+        class="gallery"
+      ></div>
+
+    </section>
+
+  </main>
+
+
+
+  <!-- ================= TOAST ================= -->
+
+  <div id="toast" class="toast">
+    হয়ে গেছে! ✨
+  </div>
+
+
+
+  <!-- ================= MODAL ================= -->
+
+  <div
+    id="modal"
+    class="modal hidden"
+  >
+
+    <div class="modal-box">
+
+      <div id="modalContent"></div>
+
+      <button
+        id="closeModal"
+        class="main-btn full"
+      >
+        ঠিক আছে 👍
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
