@@ -53,7 +53,7 @@
 <tr>
 <td width="45%" align="center" valign="middle">
   <img src="https://skillicons.dev/icons?i=go,fiber,postgresql,docker,kubernetes,grafana" width="320"><br><br>
-  <img src="https://media.giphy.com/media/giphy.gif" width="360">
+  <img src="https://media.giphy.com/media/xTiTnGeUsWOEwsGoP6/giphy.gif" width="360">
 </td>
 </tr>
 </table>
