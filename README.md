@@ -1,1167 +1,299 @@
-<!-- SECTION 1: Isometric Developer Workspace -->
-# 👨‍💻 About Me (Option 1)
-
+<!-- BLOCK 1: Fry Shut Up and Take My Money Meme -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/sDcfxFDozb3bO/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 2: Cyberpunk / Hacker Style Developer -->
-# 👨‍💻 About Me (Option 2)
-
+<!-- BLOCK 2: Matrix Green Rain Code -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/uV9E30o1c56C1U1884/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 3: Classic Coding Desk Setup -->
-# 👨‍💻 About Me (Option 3)
-
+<!-- BLOCK 3: Close-up VS Code Terminal Scrolling -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3pZipqS26dp6vQD2Mg/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 4: Neon Programmer Workspace -->
-# 👨‍💻 About Me (Option 4)
-
+<!-- BLOCK 4: Kitten Typing on Laptop Keyboard -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svvEE8Nfpa/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 5: Cat Coding / Funny Developer -->
-# 👨‍💻 About Me (Option 5)
-
+<!-- BLOCK 5: Fast JavaScript AJAX Code Typing -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/26AHONQ79Ja4185ji/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 6: Matrix Hacker Screen Typing -->
-# 👨‍💻 About Me (Option 6)
-
+<!-- BLOCK 6: Green Hacker Terminal Screen -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/I3EVrHCni0SWA/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 7: Dark Mode Web Developer -->
-# 👨‍💻 About Me (Option 7)
-
+<!-- BLOCK 7: Cat Hacking Fast Code -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/10p835vR21K9J6/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/o0vwzuF8eFO0/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 8: Coffee & Code Workstation -->
-# 👨‍💻 About Me (Option 8)
-
+<!-- BLOCK 8: Real Code Screen Fast Scroll -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/SWoRKslHV6784/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/10p835vR21K9J6/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 9: Late Night Bug Fixing -->
-# 👨‍💻 About Me (Option 9)
-
+<!-- BLOCK 9: Programmer Typing Fast on Keyboard -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/l46C1x8v3oD4SOfA4/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/L12a32R1B8T87SgXQY/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 10: Minimalist Line Art Coding -->
-# 👨‍💻 About Me (Option 10)
-
+<!-- BLOCK 10: Matrix Digital Code Rainfall -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 11: Animated Code Terminal & Keyboard -->
-# 👨‍💻 About Me (Option 11)
-
+<!-- BLOCK 11: Real HTML/CSS Code Editor Screen -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/SWoRKslHV6784/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 12: Full-Stack Laptop Typing -->
-# 👨‍💻 About Me (Option 12)
-
+<!-- BLOCK 12: Mind Blown Programmer Meme -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/LMt993887xTAA/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 13: Retro Arcade Pixel Developer -->
-# 👨‍💻 About Me (Option 13)
-
+<!-- BLOCK 13: Neon Sci-Fi Cyber Workspace -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svvEE8Nfpa/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 14: Modern Web App Building -->
-# 👨‍💻 About Me (Option 14)
-
+<!-- BLOCK 14: Dark Room Late Night Coding -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpyd2kydHRlMHcxbWVsbHFmYWF0MXNmMW5yYXlnMGlodmdtbmxsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kC397rpnJjhp8v8c7j/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/dG4ZAC8TQnJIs/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 15: Speed Typing Developer -->
-# 👨‍💻 About Me (Option 15)
-
+<!-- BLOCK 15: Hackerman Keyboard Typing Meme -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/L12a32R1B8T87SgXQY/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 16: Sci-Fi Developer HUD Interface -->
-# 👨‍💻 About Me (Option 16)
-
+<!-- BLOCK 16: Cyberpunk Developer Setup -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/f3ca3IaljA95Kx8G0M/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/uV9E30o1c56C1U1884/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 17: Relaxed Dev Coding with Music -->
-# 👨‍💻 About Me (Option 17)
-
+<!-- BLOCK 17: Multi-Monitor Command Line Terminal -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/M9P59fKZpo788stZ2M/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 18: Multi-Monitor Setup Typing -->
-# 👨‍💻 About Me (Option 18)
-
+<!-- BLOCK 18: Isomeric Coding Desk (Original) -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 19: Clean Vector Programmer at Work -->
-# 👨‍💻 About Me (Option 19)
-
+<!-- BLOCK 19: Pixel Art Retro Gamer & Coder -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="380">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 20: Rocket Launch & Code Deploy -->
-# 👨‍💻 About Me (Option 20)
-
+<!-- BLOCK 20: Animated Laptop Terminal & Keyboard -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 21: Chill Night Coding Session -->
-# 👨‍💻 About Me (Option 21)
-
+<!-- BLOCK 21: Full-Stack Web Development In Action -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/dG4ZAC8TQnJIs/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/LMt993887xTAA/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 22: Fast Code Editor Terminal -->
-# 👨‍💻 About Me (Option 22)
-
+<!-- BLOCK 22: Minimalist Line Art Code Execution -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 23: Cyber Terminal Interface -->
-# 👨‍💻 About Me (Option 23)
-
+<!-- BLOCK 23: Sci-Fi Developer HUD Workspace -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/I3EVrHCni0SWA/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/f3ca3IaljA95Kx8G0M/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 24: Developer Coffee & Keyboard -->
-# 👨‍💻 About Me (Option 24)
-
+<!-- BLOCK 24: Relaxed Lofi Coding with Music -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/26AHONQ79Ja4185ji/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/M9P59fKZpo788stZ2M/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 25: Pixel Art Programmer -->
-# 👨‍💻 About Me (Option 25)
-
+<!-- BLOCK 25: Late Night Bug Fixing Session -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/1dMNqBhsvxFiZuWO1y/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/l46C1x8v3oD4SOfA4/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 26: Software Engineering Logic -->
-# 👨‍💻 About Me (Option 26)
-
+<!-- BLOCK 26: Rocket Launch Project Deployment -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 27: Cloud & Server Infra -->
-# 👨‍💻 About Me (Option 27)
-
+<!-- BLOCK 27: Modern UI/UX Web Design Animation -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/xT9Tkt08S3o80s1pM4/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/26tn430s1X7t6J5Pq/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 28: Frontend Design & UI Building -->
-# 👨‍💻 About Me (Option 28)
-
+<!-- BLOCK 28: Pixel Art Developer Desk Setup -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/26tn430s1X7t6J5Pq/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/1dMNqBhsvxFiZuWO1y/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 29: Debugging Code & Fixes -->
-# 👨‍💻 About Me (Option 29)
-
+<!-- BLOCK 29: Server Infrastructure & Cloud Data -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3o85xG53vPryA8YmP6/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/xT9Tkt08S3o80s1pM4/giphy.gif" width="380">
 </td>
 </tr>
 </table>
 
----
-
-<!-- SECTION 30: Futuristic Hologram Developer -->
-# 👨‍💻 About Me (Option 30)
-
+<!-- BLOCK 30: Hologram 3D Developer Interface -->
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👋 Hi there, I'm MD. Abir Hossain
-
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications.
-
-I love working with JavaScript, **React**, and **Node.js**, and I'm always exploring new tools and technologies to improve my workflow.
-
-Currently, I'm focused on expanding my knowledge in GraphQL and Docker while working on exciting real-world projects.
-
-### 🚀 What I Love
-
-- 💻 **Web Development**
-- ⚛️ **React Development**
-- 🟢 **Node.js Ecosystem**
-- 🧠 **Problem Solving & Algorithms**
-- 🔧 **Building Real-World Projects**
-- 📚 **Continuous Learning**
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker,ts,nextjs" width="320">
-
-<br><br>
-
-<img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="360">
-
+<td width="100%" align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,graphql,docker" width="300"><br><br>
+  <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="380">
 </td>
 </tr>
 </table>
